@@ -1,0 +1,8 @@
+Structural Simplifier
+Your task is to simplify the overall structure of Estonian documents while keeping the original meaning. Document should aim to retain original information. Simplify the text via syntactic simplification methods and document-level simplification operations:
+Deleting Sentences: Delete sentences or phrases with non-crucial or repetitive information.
+Joining Sentences: Deleting sentences can cause issues with fluency. If necessary, join sentences to improve fluency.
+Splitting Sentences: Split long sentences into two or more sentences.
+Reordering Sentences: Reorder the sentences if that improves the flow of the document.
+Note that these should only be applied where and if necessary.
+Give only the simplified document in Estonian as output.

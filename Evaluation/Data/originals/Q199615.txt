@@ -1,0 +1,13 @@
+Language: et | Title: Entsefaliit | URL: https://et.wikipedia.org/wiki/Entsefaliit | Wikidata Item ID: Q199615 | Page ID: 543032 | Revision ID: 6468002 | Date: 2024-05-20
+
+Ajupõletik ehk entsefaliit (ladina ja inglise keeles encephalitis) on põletikuline ajuaine haigus, mida põhjustab haigusetekitaja otsene tungimine ajukoesse või immuunsüsteemi ülitundlikkusreaktsioon (autoimmuunne entsefaliit) viiruse või võõrvaigu suhtes.
+
+Riskirühma kuuluvad nõrga immuunsüsteemiga inimesed, vanemad täiskasvanud (üle 60-aastased) ja väga noored lapsed, teatud piirkonnas elavad elanikud (sääskede või puukide kaudu levivad haigused) vastavalt aastaajale (suvel suurem võimalus haigusse nakatuda Eestis).
+
+Entsefaliiti on võimalik ennetada vaktsiinidega.
+
+2015. aastal hinnati, et entsefaliiti põdes või selle tagajärgede all kannatas 4,3 miljonit inimest ning see haigus põhjustas 150 000 surmajuhtumit kogu maailmas.
+
+Tekkepõhjusteks võivad olla puugid (puukentsefaliit), herpesviirus, leetrid, mumps. 
+
+Prognostiliselt on tähtis kiire haiglaravi alustamine ja haige seisundi stabiliseerimine. Kõige raskemini kulgeb haigus tavaliselt lastel, neil esineb ka rohkem entsefaliidijärgseid jääknähte. Keskmiselt 1/3 entsefaliiti haigestunutest terveneb täielikult.
