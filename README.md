@@ -52,7 +52,7 @@ Contains prompt templates for each method. Organized by method.
 ```Eval_BERTS.py```  ([utilizing the bert_score package](https://github.com/Tiiiger/bert_score))  
 ```Eval_DSARI.py```  
 ```Eval_FKGL.py```  ([utilizing the textstat package](https://github.com/textstat/textstat))  
-```run_eval.py``` – Runs all evaluations and generates scores.tsv for each model.
+```run_eval.py``` – Runs all evaluations and generates scores.tsv for each model
 
 ## JSON Files  
 ``` agents.json ``` – Configuration file with agent descriptions  
