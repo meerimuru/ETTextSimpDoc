@@ -21,7 +21,7 @@ The simplification is performed on a set of 15 Estonian Wikipedia articles, and 
 📁**Evaluation/**  
 Contains evaluation scripts, data and automatic metric outputs.  
 &nbsp;&nbsp;&nbsp;&nbsp;📁**Data/**  
-&nbsp;&nbsp;&nbsp;&nbsp;Contains scripts and data used to automatically evaluate model outputs. Organized by model and strategy.  
+&nbsp;&nbsp;&nbsp;&nbsp;Contains data used to automatically evaluate model outputs and model outputs. Organized by model and strategy.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📁**originals/**  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Contains the original articles used in the experiments.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📁**references/**  
